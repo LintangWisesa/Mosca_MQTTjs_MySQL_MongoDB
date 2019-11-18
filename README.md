@@ -4,6 +4,10 @@
 
 ## __1. Mosca & MQTT.js__
 
+- Click & watch video tutorial below! 👇
+
+    [![Mosca MQTT.js](https://img.youtube.com/vi/HRrqF8ISQJs/0.jpg)](https://www.youtube.com/watch?v=HRrqF8ISQJs)
+
 - Initiate a Node.js project then install Mosca & MQTT.js:
     
     ```bash
@@ -66,6 +70,10 @@
 #
 
 ## __2. Mosca, MQTT.js & MySQL__
+
+- Click & watch video tutorial below! 👇
+
+    [![Video](https://img.youtube.com/vi/XhWNMZ7C1ZI/0.jpg)](https://www.youtube.com/watch?v=XhWNMZ7C1ZI)
 
 - Create a database & table on MySQL:
     
@@ -133,6 +141,10 @@
 #
 
 ## __3. Mosca, MQTT.js & MongoDB__
+
+- Click & watch video tutorial below! 👇
+
+    [![Video](https://img.youtube.com/vi/-8NgIdT_OBc/0.jpg)](https://www.youtube.com/watch?v=-8NgIdT_OBc)
 
 - Create a database & collection on MongoDB:
     
